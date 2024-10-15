@@ -1,0 +1,341 @@
+12:17:06  [main] 	Initializing Control Panel
+12:17:06  [main] 	Windows Version:  Enterprise  64-bit
+12:17:06  [main] 	XAMPP Version: 7.3.7
+12:17:06  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:17:06  [main] 	You are not running with administrator rights! This will work for
+12:17:06  [main] 	most application stuff but whenever you do something with services
+12:17:06  [main] 	there will be a security dialogue or things will break! So think 
+12:17:06  [main] 	about running this application with administrator rights!
+12:17:06  [main] 	XAMPP Installation Directory: "c:\xampp\"
+12:17:06  [main] 	Checking for prerequisites
+12:17:07  [main] 	All prerequisites found
+12:17:07  [main] 	Initializing Modules
+12:17:07  [Apache] 	Problem detected!
+12:17:07  [Apache] 	Port 80 in use by "C:\Program Files\Docker\Docker\resources\com.docker.backend.exe" with PID 10760!
+12:17:07  [Apache] 	Apache WILL NOT start without the configured ports free!
+12:17:07  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+12:17:07  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+12:17:07  [Apache] 	XAMPP Apache Service is already running on port 443
+12:17:07  [mysql] 	XAMPP MySQL Service is already running on port 3306
+12:17:07  [Tomcat] 	Problem detected!
+12:17:07  [Tomcat] 	Port 8080 in use by ""C:\xampp\apache\bin\httpd.exe" -k runservice"!
+12:17:07  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+12:17:07  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+12:17:07  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+12:17:07  [main] 	Starting Check-Timer
+12:17:07  [main] 	Control Panel Ready
+12:18:34  [main] 	Executing "services.msc"
+0:28:57  [main] 	Deinitializing Modules
+0:28:57  [main] 	Deinitializing Control Panel
+
+10:07:31  [main] 	Initializing Control Panel
+10:07:31  [main] 	Windows Version:  Enterprise  64-bit
+10:07:31  [main] 	XAMPP Version: 7.3.7
+10:07:31  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:07:31  [main] 	You are not running with administrator rights! This will work for
+10:07:31  [main] 	most application stuff but whenever you do something with services
+10:07:31  [main] 	there will be a security dialogue or things will break! So think 
+10:07:31  [main] 	about running this application with administrator rights!
+10:07:31  [main] 	XAMPP Installation Directory: "c:\xampp\"
+10:07:31  [main] 	Checking for prerequisites
+10:07:31  [main] 	All prerequisites found
+10:07:31  [main] 	Initializing Modules
+10:07:31  [Apache] 	Problem detected!
+10:07:31  [Apache] 	Port 80 in use by "C:\Program Files\Docker\Docker\resources\com.docker.backend.exe" with PID 19768!
+10:07:31  [Apache] 	Apache WILL NOT start without the configured ports free!
+10:07:31  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+10:07:31  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+10:07:31  [Apache] 	XAMPP Apache Service is already running on port 443
+10:07:31  [mysql] 	XAMPP MySQL Service is already running on port 3306
+10:07:31  [Tomcat] 	Problem detected!
+10:07:31  [Tomcat] 	Port 8080 in use by ""C:\xampp\apache\bin\httpd.exe" -k runservice"!
+10:07:31  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+10:07:31  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+10:07:31  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+10:07:31  [main] 	Starting Check-Timer
+10:07:31  [main] 	Control Panel Ready
+10:07:39  [mysql] 	Attempting to stop MySQL service...
+10:08:29  [mysql] 	Status change detected: stopped
+10:09:10  [mysql] 	Attempting to start MySQL service...
+10:09:16  [mysql] 	Status change detected: running
+11:24:47  [main] 	Deinitializing Modules
+11:24:47  [main] 	Deinitializing Control Panel
+
+19:38:32  [main] 	Initializing Control Panel
+19:38:32  [main] 	Windows Version:  Enterprise  64-bit
+19:38:32  [main] 	XAMPP Version: 7.3.7
+19:38:32  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:38:32  [main] 	You are not running with administrator rights! This will work for
+19:38:32  [main] 	most application stuff but whenever you do something with services
+19:38:32  [main] 	there will be a security dialogue or things will break! So think 
+19:38:32  [main] 	about running this application with administrator rights!
+19:38:32  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19:38:32  [main] 	Checking for prerequisites
+19:38:33  [main] 	All prerequisites found
+19:38:33  [main] 	Initializing Modules
+19:38:33  [Apache] 	XAMPP Apache Service is already running on port 443
+19:38:33  [mysql] 	XAMPP MySQL Service is already running on port 3306
+19:38:33  [Tomcat] 	Problem detected!
+19:38:33  [Tomcat] 	Port 8080 in use by ""C:\xampp\apache\bin\httpd.exe" -k runservice"!
+19:38:33  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+19:38:33  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+19:38:33  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+19:38:33  [main] 	Starting Check-Timer
+19:38:33  [main] 	Control Panel Ready
+19:39:50  [Apache] 	Attempting to stop Apache service...
+19:40:55  [Apache] 	Status change detected: stopped
+19:41:41  [Apache] 	Attempting to start Apache service...
+19:41:47  [Apache] 	Status change detected: running
+23:25:45  [main] 	Deinitializing Modules
+23:25:45  [main] 	Deinitializing Control Panel
+
+22:04:26  [main] 	Initializing Control Panel
+22:04:26  [main] 	Windows Version:  Enterprise  64-bit
+22:04:26  [main] 	XAMPP Version: 7.3.7
+22:04:26  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:04:26  [main] 	Running with Administrator rights - good!
+22:04:26  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:04:26  [main] 	Checking for prerequisites
+22:04:26  [main] 	All prerequisites found
+22:04:26  [main] 	Initializing Modules
+22:04:26  [Apache] 	XAMPP Apache Service is already running on port 80
+22:04:26  [Apache] 	XAMPP Apache Service is already running on port 443
+22:04:26  [mysql] 	XAMPP MySQL Service is already running on port 3306
+22:04:26  [main] 	Starting Check-Timer
+22:04:26  [main] 	Control Panel Ready
+22:04:28  [mercury] 	Attempting to start Mercury app...
+22:04:29  [mercury] 	Status change detected: running
+22:47:16  [mercury] 	Attempting to stop Mercury (PID: 21056)
+22:47:16  [mercury] 	Status change detected: stopped
+23:53:17  [main] 	Deinitializing Modules
+23:53:17  [main] 	Deinitializing Control Panel
+
+11:49:33  [main] 	Initializing Control Panel
+11:49:33  [main] 	Windows Version:  Enterprise  64-bit
+11:49:33  [main] 	XAMPP Version: 7.3.7
+11:49:33  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:49:33  [main] 	Running with Administrator rights - good!
+11:49:33  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:49:33  [main] 	Checking for prerequisites
+11:49:34  [main] 	All prerequisites found
+11:49:34  [main] 	Initializing Modules
+11:49:34  [Apache] 	XAMPP Apache Service is already running on port 80
+11:49:34  [Apache] 	XAMPP Apache Service is already running on port 443
+11:49:34  [mysql] 	XAMPP MySQL Service is already running on port 3306
+11:49:34  [main] 	Starting Check-Timer
+11:49:34  [main] 	Control Panel Ready
+11:50:09  [filezilla] 	Attempting to start FileZilla app...
+11:50:09  [filezilla] 	Status change detected: running
+12:12:56  [filezilla] 	Attempting to stop FileZilla app...
+12:12:56  [filezilla] 	Status change detected: stopped
+12:13:32  [mercury] 	Attempting to start Mercury app...
+12:13:32  [mercury] 	Status change detected: running
+21:04:31  [mercury] 	Status change detected: stopped
+21:04:31  [mercury] 	Error: Mercury shutdown unexpectedly.
+21:04:31  [mercury] 	This may be due to a blocked port, missing dependencies, 
+21:04:31  [mercury] 	improper privileges, a crash, or a shutdown by another method.
+21:04:31  [mercury] 	Press the Logs button to view error logs and check
+21:04:31  [mercury] 	the Windows Event Viewer for more clues
+21:04:31  [mercury] 	If you need more help, copy and post this
+21:04:31  [mercury] 	entire log window on the forums
+23:58:42  [main] 	Deinitializing Modules
+23:58:42  [main] 	Deinitializing Control Panel
+
+8:47:59  [main] 	Initializing Control Panel
+8:47:59  [main] 	Windows Version:  Enterprise  64-bit
+8:47:59  [main] 	XAMPP Version: 7.3.7
+8:47:59  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+8:47:59  [main] 	Running with Administrator rights - good!
+8:47:59  [main] 	XAMPP Installation Directory: "c:\xampp\"
+8:47:59  [main] 	Checking for prerequisites
+8:48:00  [main] 	All prerequisites found
+8:48:00  [main] 	Initializing Modules
+8:48:00  [Apache] 	XAMPP Apache Service is already running on port 80
+8:48:00  [Apache] 	XAMPP Apache Service is already running on port 443
+8:48:00  [mysql] 	XAMPP MySQL Service is already running on port 3306
+8:48:00  [main] 	Starting Check-Timer
+8:48:00  [main] 	Control Panel Ready
+8:49:33  [filezilla] 	Attempting to start FileZilla app...
+8:49:33  [filezilla] 	Status change detected: running
+9:18:32  [filezilla] 	Attempting to stop FileZilla app...
+9:18:32  [filezilla] 	Status change detected: stopped
+9:18:42  [mercury] 	Attempting to start Mercury app...
+9:18:42  [mercury] 	Status change detected: running
+9:58:49  [mercury] 	Status change detected: stopped
+9:58:49  [mercury] 	Error: Mercury shutdown unexpectedly.
+9:58:49  [mercury] 	This may be due to a blocked port, missing dependencies, 
+9:58:49  [mercury] 	improper privileges, a crash, or a shutdown by another method.
+9:58:49  [mercury] 	Press the Logs button to view error logs and check
+9:58:49  [mercury] 	the Windows Event Viewer for more clues
+9:58:49  [mercury] 	If you need more help, copy and post this
+9:58:49  [mercury] 	entire log window on the forums
+0:10:18  [main] 	Deinitializing Modules
+0:10:18  [main] 	Deinitializing Control Panel
+
+22:25:18  [main] 	Initializing Control Panel
+22:25:18  [main] 	Windows Version:  Enterprise  64-bit
+22:25:18  [main] 	XAMPP Version: 7.3.7
+22:25:18  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:25:18  [main] 	Running with Administrator rights - good!
+22:25:18  [main] 	XAMPP Installation Directory: "c:\xampp\"
+22:25:18  [main] 	Checking for prerequisites
+22:25:19  [main] 	All prerequisites found
+22:25:19  [main] 	Initializing Modules
+22:25:19  [Apache] 	XAMPP Apache Service is already running on port 80
+22:25:19  [Apache] 	XAMPP Apache Service is already running on port 443
+22:25:19  [mysql] 	XAMPP MySQL Service is already running on port 3306
+22:25:19  [main] 	Starting Check-Timer
+22:25:19  [main] 	Control Panel Ready
+22:25:36  [mercury] 	Attempting to start Mercury app...
+22:25:36  [mercury] 	Status change detected: running
+23:19:54  [mercury] 	Status change detected: stopped
+23:19:54  [mercury] 	Error: Mercury shutdown unexpectedly.
+23:19:54  [mercury] 	This may be due to a blocked port, missing dependencies, 
+23:19:54  [mercury] 	improper privileges, a crash, or a shutdown by another method.
+23:19:54  [mercury] 	Press the Logs button to view error logs and check
+23:19:54  [mercury] 	the Windows Event Viewer for more clues
+23:19:54  [mercury] 	If you need more help, copy and post this
+23:19:54  [mercury] 	entire log window on the forums
+23:56:01  [main] 	Deinitializing Modules
+23:56:01  [main] 	Deinitializing Control Panel
+
+11:09:59  [main] 	Initializing Control Panel
+11:09:59  [main] 	Windows Version:  Enterprise  64-bit
+11:09:59  [main] 	XAMPP Version: 7.3.7
+11:09:59  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:09:59  [main] 	Running with Administrator rights - good!
+11:09:59  [main] 	XAMPP Installation Directory: "c:\xampp\"
+11:09:59  [main] 	Checking for prerequisites
+11:09:59  [main] 	All prerequisites found
+11:09:59  [main] 	Initializing Modules
+11:10:00  [Apache] 	XAMPP Apache Service is already running on port 80
+11:10:00  [Apache] 	XAMPP Apache Service is already running on port 443
+11:10:00  [mysql] 	XAMPP MySQL Service is already running on port 3306
+11:10:00  [main] 	Starting Check-Timer
+11:10:00  [main] 	Control Panel Ready
+11:10:02  [mercury] 	Attempting to start Mercury app...
+11:10:03  [mercury] 	Status change detected: running
+11:15:27  [mercury] 	Attempting to stop Mercury (PID: 10140)
+11:15:27  [mercury] 	Status change detected: stopped
+0:09:41  [main] 	Deinitializing Modules
+0:09:41  [main] 	Deinitializing Control Panel
+
+16:14:14  [main] 	Initializing Control Panel
+16:14:14  [main] 	Windows Version:  Enterprise  64-bit
+16:14:14  [main] 	XAMPP Version: 7.3.7
+16:14:14  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+16:14:14  [main] 	Running with Administrator rights - good!
+16:14:14  [main] 	XAMPP Installation Directory: "c:\xampp\"
+16:14:14  [main] 	Checking for prerequisites
+16:14:15  [main] 	All prerequisites found
+16:14:15  [main] 	Initializing Modules
+16:14:15  [Apache] 	XAMPP Apache Service is already running on port 80
+16:14:15  [Apache] 	XAMPP Apache Service is already running on port 443
+16:14:15  [mysql] 	XAMPP MySQL Service is already running on port 3306
+16:14:15  [main] 	Starting Check-Timer
+16:14:15  [main] 	Control Panel Ready
+16:15:57  [Apache] 	Attempting to stop Apache service...
+16:16:00  [Apache] 	Status change detected: stopped
+16:16:01  [Apache] 	Attempting to start Apache service...
+16:16:02  [Apache] 	Status change detected: running
+23:35:17  [main] 	Deinitializing Modules
+23:35:17  [main] 	Deinitializing Control Panel
+
+18:54:00  [main] 	Initializing Control Panel
+18:54:00  [main] 	Windows Version:  Enterprise  64-bit
+18:54:00  [main] 	XAMPP Version: 7.3.7
+18:54:00  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+18:54:00  [main] 	Running with Administrator rights - good!
+18:54:00  [main] 	XAMPP Installation Directory: "c:\xampp\"
+18:54:00  [main] 	Checking for prerequisites
+18:54:01  [main] 	All prerequisites found
+18:54:01  [main] 	Initializing Modules
+18:54:01  [Apache] 	XAMPP Apache Service is already running on port 80
+18:54:01  [Apache] 	XAMPP Apache Service is already running on port 443
+18:54:01  [mysql] 	XAMPP MySQL Service is already running on port 3306
+18:54:01  [main] 	Starting Check-Timer
+18:54:01  [main] 	Control Panel Ready
+18:54:05  [filezilla] 	Attempting to start FileZilla app...
+18:54:05  [filezilla] 	Status change detected: running
+19:25:10  [filezilla] 	Status change detected: stopped
+19:25:10  [filezilla] 	Error: FileZilla shutdown unexpectedly.
+19:25:10  [filezilla] 	This may be due to a blocked port, missing dependencies, 
+19:25:10  [filezilla] 	improper privileges, a crash, or a shutdown by another method.
+19:25:10  [filezilla] 	Press the Logs button to view error logs and check
+19:25:10  [filezilla] 	the Windows Event Viewer for more clues
+19:25:10  [filezilla] 	If you need more help, copy and post this
+19:25:10  [filezilla] 	entire log window on the forums
+19:25:21  [filezilla] 	Status change detected: running
+19:41:16  [filezilla] 	Status change detected: stopped
+19:41:16  [filezilla] 	Error: FileZilla shutdown unexpectedly.
+19:41:16  [filezilla] 	This may be due to a blocked port, missing dependencies, 
+19:41:16  [filezilla] 	improper privileges, a crash, or a shutdown by another method.
+19:41:16  [filezilla] 	Press the Logs button to view error logs and check
+19:41:16  [filezilla] 	the Windows Event Viewer for more clues
+19:41:16  [filezilla] 	If you need more help, copy and post this
+19:41:16  [filezilla] 	entire log window on the forums
+19:41:24  [mercury] 	Status change detected: running
+19:56:10  [mercury] 	Status change detected: stopped
+19:56:10  [mercury] 	Error: Mercury shutdown unexpectedly.
+19:56:10  [mercury] 	This may be due to a blocked port, missing dependencies, 
+19:56:10  [mercury] 	improper privileges, a crash, or a shutdown by another method.
+19:56:10  [mercury] 	Press the Logs button to view error logs and check
+19:56:10  [mercury] 	the Windows Event Viewer for more clues
+19:56:10  [mercury] 	If you need more help, copy and post this
+19:56:10  [mercury] 	entire log window on the forums
+19:56:11  [mercury] 	Status change detected: running
+20:57:19  [mercury] 	Status change detected: stopped
+20:57:19  [mercury] 	Error: Mercury shutdown unexpectedly.
+20:57:19  [mercury] 	This may be due to a blocked port, missing dependencies, 
+20:57:19  [mercury] 	improper privileges, a crash, or a shutdown by another method.
+20:57:19  [mercury] 	Press the Logs button to view error logs and check
+20:57:19  [mercury] 	the Windows Event Viewer for more clues
+20:57:19  [mercury] 	If you need more help, copy and post this
+20:57:19  [mercury] 	entire log window on the forums
+0:05:42  [main] 	Deinitializing Modules
+0:05:42  [main] 	Deinitializing Control Panel
+
+21:49:18  [main] 	Initializing Control Panel
+21:49:18  [main] 	Windows Version:  Enterprise  64-bit
+21:49:18  [main] 	XAMPP Version: 7.3.7
+21:49:18  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:49:18  [main] 	Running with Administrator rights - good!
+21:49:18  [main] 	XAMPP Installation Directory: "c:\xampp\"
+21:49:18  [main] 	Checking for prerequisites
+21:49:18  [main] 	All prerequisites found
+21:49:18  [main] 	Initializing Modules
+21:49:19  [Apache] 	XAMPP Apache Service is already running on port 80
+21:49:19  [Apache] 	XAMPP Apache Service is already running on port 443
+21:49:19  [mysql] 	XAMPP MySQL Service is already running on port 3306
+21:49:19  [main] 	Starting Check-Timer
+21:49:19  [main] 	Control Panel Ready
+21:49:21  [mercury] 	Attempting to start Mercury app...
+21:49:21  [mercury] 	Status change detected: running
+21:53:04  [mercury] 	Attempting to stop Mercury (PID: 20032)
+21:53:05  [mercury] 	Status change detected: stopped
+21:53:11  [mercury] 	Attempting to start Mercury app...
+21:53:12  [mercury] 	Status change detected: running
+23:11:49  [mercury] 	Attempting to stop Mercury (PID: 5304)
+23:11:49  [mercury] 	Status change detected: stopped
+23:42:21  [main] 	Deinitializing Modules
+23:42:21  [main] 	Deinitializing Control Panel
+
+20:54:28  [main] 	Initializing Control Panel
+20:54:28  [main] 	Windows Version:  Enterprise  64-bit
+20:54:28  [main] 	XAMPP Version: 7.3.7
+20:54:28  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+20:54:28  [main] 	Running with Administrator rights - good!
+20:54:28  [main] 	XAMPP Installation Directory: "c:\xampp\"
+20:54:28  [main] 	Checking for prerequisites
+20:54:30  [main] 	All prerequisites found
+20:54:30  [main] 	Initializing Modules
+20:54:30  [Apache] 	XAMPP Apache Service is already running on port 80
+20:54:30  [Apache] 	XAMPP Apache Service is already running on port 443
+20:54:30  [mysql] 	XAMPP MySQL Service is already running on port 3306
+20:54:30  [main] 	Starting Check-Timer
+20:54:30  [main] 	Control Panel Ready
+20:54:33  [mysql] 	Attempting to stop MySQL service...
+20:54:35  [mysql] 	Status change detected: stopped
+23:44:29  [main] 	Deinitializing Modules
+23:44:29  [main] 	Deinitializing Control Panel
+
